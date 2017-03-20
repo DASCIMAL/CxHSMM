@@ -1,4 +1,4 @@
-# CxHSMM
+# CxHSMM - The Coxian Hidden Semi-Markov Models
 ### Source codes for the Coxian Hidden Semi-Markov Models (CxHSMM) [Matlab/Octave]
 Version 1.0
 
