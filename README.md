@@ -1,6 +1,8 @@
 # CxHSMM - The Coxian Hidden Semi-Markov Models
 ### Source codes for the Coxian Hidden Semi-Markov Models (CxHSMM) [Matlab/Octave]
-Version 1.0
+
+***Copyright by Dinh Phung, Thi Duong and Hung Bui, 2005***
+Version: 1.0
 
 This package implements the **Coxian Hidden Semi-Markov Models** (CxHSMM) described in the following papers:
 
